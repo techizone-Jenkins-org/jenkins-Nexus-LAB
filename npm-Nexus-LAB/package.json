@@ -4,9 +4,8 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://15.206.148.72:8081/repository/nodejsmss/"
+    "registry": "http://18.134.198.176:9980/mithuntechnologies/repository/mithuntechno-nodejs/"
   },
-  
   "scripts": {
     "server": "http-server -c-1 -p 9999",
     "start1": "nodemon app.js",
@@ -27,13 +26,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://13.212.29.25:9980/mithuntechnologies/repository/nodejsproject/"
+    "url": "https://github.com/MithunTechnologies/node-js-application"
   },
   "keywords": [
     "node",
-    "SapSecOps Solutions",
+    "Mithun Technologies",
     "express"
   ],
-  "author": "Venkatesh Peta",
+  "author": "Mithun Reddy Lacchannagari",
   "license": "MIT"
 }
